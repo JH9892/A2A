@@ -1,7 +1,7 @@
-<!-- <p align="center">
-  <img src="https://github.com/Team-CMD/SPTJ_Web-Crawling/blob/main/src/docs/web-crawler.png"/>
-</p> -->
-<h1 align="center">A2A</h1>
+<div align="center">
+  <h1 style="color:violet;"><b>A2A</b></h1>
+  <p>Algorithm to Application<br>알고리즘을 실생활에 응용해보자!</p>
+</div>
 
 ## 📕 What is `A2A`?
     A2A는 Apply to Algorithm study의 약자로서, 특정 프로그래밍 언어를 이용한 자료구조와 알고리즘 구현을 공부한 뒤 이를 실생활에 활용하고자 하는 연구를 진행하는 개인 스터디 입니다!
