@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color:violet;"><b>A2A</b></h1>
-  <p>Algorithm to Application<br>알고리즘을 실생활에 응용해보자!</p>
+  <p>Apply to Algorithm<br>알고리즘을 실생활에 응용해보자!</p>
 </div>
 
 ## 📕 What is `A2A`?
