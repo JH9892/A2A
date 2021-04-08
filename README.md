@@ -16,12 +16,15 @@
 ---
 ## 📗 What is the main contents?  
 
-#### Programming Language 
+### Programming Language 
 - Python
 
-#### Step by contents  
+### Step by contents  
 1. Data Struct
 2. Algorithm
     - Case of Algorithm in Boj Problem
 3. Application in Real Life
 4. Report to [my blog](https://velog.io/@xaihun98)
+
+### What kind of reference or document?
+- [`이것은 코딩테스트다 - 나동빈`](https://github.com/ndb796/python-for-coding-test)   
