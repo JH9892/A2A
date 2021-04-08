@@ -24,3 +24,4 @@
 2. Algorithm
     - Case of Algorithm in Boj Problem
 3. Application in Real Life
+4. Report to [my blog](https://velog.io/@xaihun98)
