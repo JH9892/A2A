@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:violet;"><b>A2A</b></h1>
+  <img src=".\assets\A2A LOGO.png" />
   <p>Apply to Algorithm<br>알고리즘을 실생활에 응용해보자!</p>
 </div>
 
