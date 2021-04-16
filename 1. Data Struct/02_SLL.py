@@ -1,6 +1,6 @@
 # -----------------------------------
 #   A2A Study
-#   Data Struct - Stack
+#   Data Struct - Singly Linked List
 # -----------------------------------
 
 # - [재귀vs꼬리재귀](https://ledgku.tistory.com/37)

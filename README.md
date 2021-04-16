@@ -28,3 +28,5 @@
 
 ### What kind of reference or document?
 - [`이것은 코딩테스트다 - 나동빈`](https://github.com/ndb796/python-for-coding-test)   
+- Googling
+- In my Brain!

@@ -1,6 +1,10 @@
 <!-- 
+=====================================
 Velog Posting Tag
-- Algorithm
+- algorithm
+=====================================
+
+Posting Title : [A2A] __algorithm title__ (theory / code)
 -->
 ___
 This Posting contents reports personal study about algorithm.
